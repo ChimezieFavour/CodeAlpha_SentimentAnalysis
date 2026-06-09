@@ -54,7 +54,7 @@ Out of 52,681 statements, Depression (15,404) and Suicidal (10,652) together acc
 In the Stress category, the word "work" was the single most dominant term after common words were removed. This points strongly to workplace pressure as a leading driver of stress, which has significant implications for employee wellbeing programs and organizational mental health policies.
 
 ### 3. Suicidal language is closely tied to depression
-The model's biggest confusion was between Depression and Suicidal statements — 555 Suicidal statements were misclassified as Depression and 595 Depression statements were misclassified as Suicidal. This linguistic overlap suggests that suicidal ideation often develops from and sounds very similar to depressive language, reinforcing the importance of taking all expressions of depression seriously.
+The model's biggest confusion was between Depression and Suicidal statements. 555 Suicidal statements were misclassified as Depression and 595 Depression statements were misclassified as Suicidal. This linguistic overlap suggests that suicidal ideation often develops from and sounds very similar to depressive language, reinforcing the importance of taking all expressions of depression seriously.
 
 ### 4. People with Bipolar disorder use more clinical language
 Unlike other categories where people described feelings and experiences, the Bipolar word cloud prominently featured words like "medication", "doctor" and "med". This suggests people discussing Bipolar disorder are more likely to be engaged with the healthcare system and discussing treatment rather than just expressing raw emotion.
@@ -63,7 +63,7 @@ Unlike other categories where people described feelings and experiences, the Bip
 Words like "alone", "people", "friend" and "family" appeared consistently across Depression, Suicidal and Personality Disorder categories. This suggests that relationship difficulties and feelings of isolation are a common thread running through multiple mental health conditions.
 
 ### 6. First person language dominates all categories
-The word "im" (I'm) was the most frequent word across nearly every mental health category. This confirms that these are deeply personal, first person expressions of lived experience — not observations or general statements — making this dataset a uniquely honest window into how people actually feel.
+The word "im" (I'm) was the most frequent word across nearly every mental health category. This confirms that these are deeply personal, first person expressions of lived experience — not observations or general statements, making this dataset a uniquely honest window into how people actually feel.
 
 ---
 
